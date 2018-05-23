@@ -1,0 +1,6 @@
+if (a >= b) {
+c = d + b; // Comment1
+e = 1; // This statement is added
+d = d + 1; }
+else
+c = d - a; //Comment2
